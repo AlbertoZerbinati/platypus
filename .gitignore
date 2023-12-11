@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!*.md
+!*.py
+!data_pipeline
+!utils
